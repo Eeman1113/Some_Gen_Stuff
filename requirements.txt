@@ -4,4 +4,5 @@ nvidia-ml-py3
 ftfy
 torch
 datasets
+pandas
 --extra-index-url https://download.pytorch.org/whl/cu113 torch
